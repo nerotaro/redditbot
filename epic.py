@@ -11,7 +11,7 @@ r = praw.Reddit(
     client_id="X_ZgU4Zo9KpGwC4qpB6HyA",
     client_secret="SyW5vlv7MQYhL2lPjyKlFZxc95Sx6A",
     username="neroredditbot",
-    password="typograph"
+    password=password
     )
 
 subreddit = r.subreddit("botTest1ima")
